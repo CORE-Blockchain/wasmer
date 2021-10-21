@@ -221,7 +221,7 @@ source](https://docs.wasmer.io/ecosystem/wasmer/building-from-source) or [test y
 
 ## Community
 
-Wasmer has an amazing community of developers and contributors. Welcome, please join us! 👋
+Wasmer has an amazing community of developers and contributors. Welcome, please join us! 👋 
 
 - [Wasmer Community Slack](https://slack.wasmer.io/)
 - [Wasmer on Twitter](https://twitter.com/wasmerio)
