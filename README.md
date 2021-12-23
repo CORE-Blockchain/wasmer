@@ -226,4 +226,4 @@ Wasmer has an amazing community of developers and contributors. Welcome, please 
 - [Wasmer Community Slack](https://slack.wasmer.io/)
 - [Wasmer on Twitter](https://twitter.com/wasmerio)
 - [Wasmer on Facebook](https://www.facebook.com/wasmerio)
-- [Email](mailto:hello@wasmer.io)
+- [Email](mailto:hello@wasmer.io) 
